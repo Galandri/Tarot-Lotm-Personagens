@@ -6,8 +6,8 @@
 
 ## ✨ Prévia
 
-![Prévia do baralho no Foundry VTT]
-https://imgur.com/a/o5WMgl6
+![Prévia do baralho no Foundry VTT](https://i.imgur.com/hQucSdu.png)
+
 ---
 
 ## 📖 Sobre o Módulo
