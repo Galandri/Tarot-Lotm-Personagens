@@ -1,6 +1,6 @@
 # 🃏 Tarot - Arcanos Maiores | Lord of the Mysteries
 
-> Baralho de Tarot com os **22 Arcanos Maiores** para o **Foundry VTT**, com artes dos personagens de *Lord of the Mysteries*, criadas por [羽織haori].
+> Baralho de Tarot com os **22 Arcanos Maiores** para o **Foundry VTT**, com artes dos personagens de *Lord of the Mysteries*, criadas por 羽織haori.
 
 ---
 
