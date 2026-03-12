@@ -51,7 +51,7 @@ Após isso vá em gerênciar modulos e o ative, a proxima vez que for criar um b
 
 ## 🤖 Créditos
 
-- **Artes:** [羽織haori]([https://www.pixiv.net/en/users/1616836) — personagens de *Lord of the Mysteries*
+- **Artes:** [羽織haori](https://www.pixiv.net/en/users/1616836) — personagens de *Lord of the Mysteries*
 - **Módulo criado com auxílio de:** [Claude.ai](https://claude.ai) (Anthropic)
 - **Empacotamento e configuração:** Galandri
 
