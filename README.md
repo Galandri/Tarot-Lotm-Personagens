@@ -47,6 +47,7 @@ Após isso vá em gerênciar modulos e o ative, a proxima vez que for criar um b
 | v10 | ✅ Compatível |
 | v11 | ✅ Compatível |
 | v12 | ✅ Verificado |
+| v13 | ✅ Verificado |
 
 ---
 
