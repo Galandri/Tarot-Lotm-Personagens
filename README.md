@@ -36,7 +36,7 @@ No Foundry VTT, vá em **Configurações → Gerenciar Módulos → Instalar Mó
 https://github.com/Galandri/Tarot-Lotm-Personagens/blob/main/module.json
 ```
 
-Após isso vá em gerênciar modulos e o ative, a proxima vez que for criar um baralho ele aparecerá como uma das opções de configurações de baralho pre definidas.
+Após isso vá em gerênciar modulos e o ative, a proxima vez que for criar um baralho, ele aparecerá como uma das opções de configurações de baralho pre definidas.
 
 ---
 
