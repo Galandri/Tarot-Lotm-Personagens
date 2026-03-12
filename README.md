@@ -20,11 +20,11 @@ Cada carta representa um dos 22 arcanos (do 0 - O Tolo ao 21 - O Mundo), com ilu
 
 ## 🎴 Exibição Cinematográfica das Cartas
 
-Para que as cartas sejam exibidas de forma animada e visual como na imagem acima — com o efeito de leque, brilho e revelação em destaque — é necessário instalar o módulo:
+Para que as cartas sejam exibidas de forma animada e visual como na imagem acima — é necessário instalar o módulo:
 
 ### 👉 [Card Viewer by orcnog](https://foundryvtt.com/packages/orcnog-card-viewer)
 
-Sem ele, as cartas ainda funcionam normalmente pelo sistema nativo de Cards do Foundry, mas sem os efeitos visuais especiais.
+Sem ele, as cartas ainda funcionam normalmente pelo sistema nativo de Cards do Foundry, mas sem os efeitos visuais da imagem.
 
 ---
 
@@ -35,6 +35,8 @@ No Foundry VTT, vá em **Configurações → Gerenciar Módulos → Instalar Mó
 ```
 https://github.com/Galandri/Tarot-Lotm-Personagens/blob/main/module.json
 ```
+
+Após isso vá em gerênciar modulos e o ative, a proxima vez que for criar um baralho ele aparecerá como uma das opções de configurações de baralho pre definidas.
 
 ---
 
