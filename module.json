@@ -16,7 +16,7 @@
     "tarot.js"
   ],
   "languages": [],
-  "manifest": "https://SEU_HOST_AQUI/tarot-arcanos-maiores/module.json",
-  "download": "https://SEU_HOST_AQUI/tarot-arcanos-maiores.zip",
+  "manifest": "https://github.com/Galandri/Tarot-Lotm-Personagens/blob/main/module.json",
+  "download": "https://github.com/Galandri/Tarot-Lotm-Personagens/blob/main/tarot-arcanos-maiores.zip",
   "url": ""
 }
