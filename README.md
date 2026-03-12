@@ -6,7 +6,7 @@
 
 ## ✨ Prévia
 
-![Prévia do baralho no Foundry VTT](preview.png)
+![Prévia do baralho no Foundry VTT]( preview.png )
 
 ---
 
