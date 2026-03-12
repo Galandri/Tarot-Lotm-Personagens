@@ -1,0 +1,22 @@
+{
+  "id": "tarot-arcanos-maiores",
+  "title": "Tarot - Arcanos Maiores",
+  "description": "Baralho de Tarot com os 22 Arcanos Maiores. Adiciona um preset de baralho diretamente na interface de Cards do Foundry VTT, sem dependência de outros módulos.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Homebrew"
+    }
+  ],
+  "scripts": [
+    "tarot.js"
+  ],
+  "languages": [],
+  "manifest": "https://SEU_HOST_AQUI/tarot-arcanos-maiores/module.json",
+  "download": "https://SEU_HOST_AQUI/tarot-arcanos-maiores.zip",
+  "url": ""
+}
